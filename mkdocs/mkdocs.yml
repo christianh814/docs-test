@@ -10,11 +10,11 @@ theme:
 nav:
 - Home: 'index.md'
 - Head Placeholder 1:
-    - 'Page Placeholder 1': 'h1p1.md'
-    - 'Page Placeholder 2': 'h1p2.md'
+    - 'Head 1 Placeholder 1': 'h1p1.md'
+    - 'Head 1 Placeholder 2': 'h1p2.md'
 - Head Placeholder 2:
-    - 'Page Placeholder 1': 'h2p1.md'
-    - 'Page Placeholder 2': 'h2p2.md'
+    - 'Head 2 Placeholder 1': 'h2p1.md'
+    - 'Head 2 Placeholder 2': 'h2p2.md'
 - Head Placeholder 3:
-    - 'Page Placeholder 1': 'h3p1.md'
-    - 'Page Placeholder 2': 'h3p2.md'
+    - 'Head 3 Placeholder 1': 'h3p1.md'
+    - 'Head 3 Placeholder 2': 'h3p2.md'
